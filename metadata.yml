@@ -1,0 +1,14 @@
+---
+:id: 102790868
+:submitters:
+- :name: Anna Xiao
+  :email: annaxiao2024@u.northwestern.edu
+- :name: Lena Choe
+  :email: lenachoe2024@u.northwestern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-01 18:11:04.650974000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-01 10:11:04.650974000 Z
+:status: processed
+:score: 100.0
